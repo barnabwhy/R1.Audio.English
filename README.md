@@ -14,7 +14,7 @@ The decision to do this was a strange one as the Titanfall branch of the Source 
 
 It's likely they believed users would prefer the audio be in the WAV format, for less CPU usage at the expense of more storage use, or maybe they simply overlooked the fact that converting the files back to WAV from OGG would not restore them to their original quality.
 
-It could, however, be the case that there was some unknown, issue with 160kbps OGG audio in the engine. Without fully reverse engineering the ACACHE file format used in the game it may not be possible to tell if the OGG audio would have worked out of the box.
+It could, however, be the case that there was some unknown, issue with 160kbps OGG audio in the engine. Without fully reverse engineering the [ACACHE](https://github.com/barnabwhy/TFVPKTool/blob/main/src/acache.ts) file format used in the game it may not be possible to tell if the OGG audio would have worked out of the box.
 
 ----
 
