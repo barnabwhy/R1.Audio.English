@@ -5,6 +5,6 @@
         "Titanfall content import"
     ],
     "Version": "1",
-    "LoadPriority": 11,
+    "LoadPriority": -100,
     "RequiredOnClient": true
 }
