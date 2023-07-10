@@ -1,0 +1,10 @@
+{
+    "Name": "R1.Audio.English",
+    "Description": "Adds English audio from Titanfall 1",
+    "Authors": [
+        "Titanfall content import"
+    ],
+    "Version": "1",
+    "LoadPriority": 11,
+    "RequiredOnClient": true
+}
