@@ -1,7 +1,7 @@
 # TF1.Audio.English
 English audio from Titanfall in **OGG** format for TFORevive.
 
-Reduced in size by 94.1%, from 13.58GB (Titanfall 1, WAV) to 806MB (R1.Audio.English, OGG) with no loss in quality!
+Reduced in size by 94.1%, from 13.58GB (Titanfall 1, WAV) to 806MB (TF1.Audio.English, OGG) with no loss in quality!
 
 Since Titanfall Online uses OGG files for all of its existing audio, I decided to export the English audio from Titanfall in the OGG format to get the benefits of a compressed audio format.
 
